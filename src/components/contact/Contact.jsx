@@ -1,5 +1,5 @@
 import "./Contact.css";
-import SectionTitle from "../SectionTitle/SectionTitle";
+import SectionTitle from "../sectionTitle/SectionTitle";
 import ContactLeft from "./ContactLeft";
 import ContactRight from "./ContactRight";
 

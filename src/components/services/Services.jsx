@@ -2,7 +2,7 @@ import "./Services.css";
 import { services } from "../../data/services";
 // import ServiceModal from "./ServiceModal";
 import ServiceItem from "./ServiceItem"
-import SectionTitle from "../SectionTitle/SectionTitle";
+import SectionTitle from "../sectionTitle/SectionTitle";
 import { motion } from "motion/react";
 import { slideInVariants } from "../../utils/animation";
 

@@ -5,7 +5,7 @@ import {Navigation,Pagination} from "swiper/modules";
 import "swiper/css"
 import "swiper/css/navigation"
 import "swiper/css/pagination"
-import SectionTitle from "../SectionTitle/SectionTitle";
+import SectionTitle from "../sectionTitle/SectionTitle";
 import { motion } from "motion/react";
 import { slideInVariants } from "../../utils/animation";
 
