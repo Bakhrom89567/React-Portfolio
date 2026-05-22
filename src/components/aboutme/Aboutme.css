@@ -20,8 +20,9 @@
 }
 
 .about-img {
-    flex: 0 0 500px;           /* фиксированная ширина изображения */
+    flex: 1 1 400px;           /* фиксированная ширина изображения */
     max-width: 500px;
+    width:100%;
 }
 
 .about-img img {
@@ -111,5 +112,10 @@
     .about-wrapper {
         flex-wrap: wrap;
         justify-content: center;
+    }
+}
+@media (max-width: 1070px) {
+    .professional-list {
+        flex-wrap: wrap;
     }
 }

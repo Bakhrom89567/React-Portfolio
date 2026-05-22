@@ -253,6 +253,38 @@ main {
         gap: 40px!important;
     }
 }
+/* @media (max-width: 768px) {
+
+  body {
+    font-size: 14px;
+  }
+
+  section {
+    padding: 40px 0;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 26px;
+  }
+
+  h3 {
+    font-size: 22px;
+  }
+
+  p {
+    font-size: 14px;
+    line-height: 1.6;
+  }
+
+  .container {
+    padding: 0 15px;
+  }
+} */
+
 
 @media (max-width: 390px) {
     .inner-title {

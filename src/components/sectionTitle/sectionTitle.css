@@ -25,7 +25,8 @@
     position: relative;
     font-size: 25px;
     font-weight: 700;
-    transform: translateY(-55px);
+    transform: translateY(-50px)!important;
+  
 }
 
 .inner-second-title::before {
